@@ -6,18 +6,23 @@
 
 `Eixo: 5`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+A MetalTech Ltda. é uma empresa do setor industrial especializada na produção de componentes metálicos e peças usinadas para o setor automotivo e maquinário pesado. Devido à natureza de suas operações, a empresa depende fortemente de sistemas informatizados para controle de produção, logística, financeiro e relacionamento com clientes.
+O presente projeto tem como objetivo planejar e simular uma 
+infraestrutura de rede corporativa robusta, segura e escalável, capaz de suportar as operações 
+da empresa de forma eficiente. A proposta considera alta disponibilidade, segmentação de rede, 
+segurança da informação e comunicação segura entre unidades geograficamente distribuídas.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Ana Clara Rodrigues de Araújo
+* Ingrid Rebeca Silva
+* Isabelle Alves de Lima
+* Pedro Henrique Barroso Ribeiro dos Santos
+* Vitor de Castro Coelho
 
 ## Orientador
 
-* Nome completo do professor 1
+* Alexandre Teixeira
+
 
 
