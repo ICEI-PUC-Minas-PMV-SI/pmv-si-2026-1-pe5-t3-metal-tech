@@ -18,6 +18,7 @@ segurança da informação e comunicação segura entre unidades geograficamente
 * Ingrid Rebeca Silva
 * Isabelle Alves de Lima
 * Pedro Henrique Barroso Ribeiro dos Santos
+* Saulo de Tarso Morais Ribeiro
 * Vitor de Castro Coelho
 
 ## Orientador
